@@ -1,0 +1,21 @@
+streamlit
+python-dotenv
+
+# Embeddings
+sentence-transformers
+
+# LangChain
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+
+# PDF
+pypdf
+
+# Vector Database
+chromadb
+
+# Web Search
+ddgs

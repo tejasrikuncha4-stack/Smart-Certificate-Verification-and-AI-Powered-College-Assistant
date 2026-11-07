@@ -1,0 +1,20 @@
+node_modules
+dist
+server/data
+server/uploads/*
+.env
+
+# Python and RAG Agent
+**/.env Add-Content .gitignore
+git add .gitignore
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+**/data/chroma_db/
+rag-agent-main/.streamlit/secrets.toml
+rag-agent-main/rag-agent-main.zip
+
+# Keep private college PDFs out of GitHub
+rag-agent-main/data/documents/*.pdf
+**/.evn
